@@ -3,7 +3,7 @@ name: Makefile CI
 on:
   push:
     branches: [ "main" ]
-  pull_request:https://github.com/MKYGRAPHICS7/PocoM6Plus-Breeze-Sky.git
+  pull_request:
     branches: [ "main" ]
 
 jobs:
