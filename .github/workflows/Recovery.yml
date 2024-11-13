@@ -1,6 +1,6 @@
 name: Makefile CI
 on:
-  push:
+  push: ["https://github.com/MKYGRAPHICS7/Poco-M6-Plus-Breeze-Device-Tree"]
     branches: [ "main" ]
   pull_request: ["https://github.com/MKYGRAPHICS7/Poco-M6-Plus-Breeze-Device-Tree"]
     branches: [ "main" ]
